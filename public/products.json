@@ -1,0 +1,318 @@
+{
+  "products": [
+    {
+      "id": 2317478232141,
+      "title": "Kalam Strap",
+      "variations": "40, 45",
+      "image": "/images/1.jpg",
+      "price": 250000,
+      "items": 3
+    },
+    {
+      "id": 2317476626509,
+      "title": "Samburu Strap",
+      "variations": "40, 45",
+      "image": "/images/2.jpg",
+      "price": 150000,
+      "items": 3
+    },
+    {
+      "id": 2317475053645,
+      "title": "Zulu Strap",
+      "variations": "40, 45",
+      "image": "/images/3.jpg",
+      "price": 350000,
+      "items": 3
+    },
+    {
+      "id": 2317472464973,
+      "title": "Ndebele Strap",
+      "variations": "40, 45",
+      "image": "/images/4.jpg",
+      "price": 300000,
+      "items": 3
+    },
+    {
+      "id": 2317469024333,
+      "title": "Cherokee Strap",
+      "variations": "40, 45",
+      "image": "/images/5.jpg",
+      "price": 250000,
+      "items": 3
+    },
+    {
+      "id": 291898589208,
+      "title": "Carbon Black Cherokee",
+      "variations": "40, 45",
+      "image": "/images/6.jpg",
+      "price": 350000,
+      "items": 3
+    },
+    {
+      "id": 291957309464,
+      "title": "Rose Gold White Zulu",
+      "variations": "40, 45",
+      "image": "/images/7.jpg",
+      "price": 150000,
+      "items": 3
+    },
+    {
+      "id": 291957702680,
+      "title": "Rose Gold Black Cherokee",
+      "variations": "40, 45",
+      "image": "/images/8.jpg",
+      "price": 450000,
+      "items": 3
+    },
+    {
+      "id": 291960061976,
+      "title": "Rose Gold Black Zulu",
+      "variations": "40, 45",
+      "image": "/images/9.jpg",
+      "price": 550000,
+      "items": 3
+    },
+    {
+      "id": 291960651800,
+      "title": "Rose Gold Black Samburu",
+      "variations": "40, 45",
+      "image": "/images/10.jpg",
+      "price": 500000,
+      "items": 3
+    },
+    {
+      "id": 291961045016,
+      "title": "Silver White Samburu",
+      "variations": "40, 45",
+      "image": "/images/11.jpg",
+      "price": 400000,
+      "items": 3
+    },
+    {
+      "id": 291944923160,
+      "title": "Gold White Ndebele",
+      "variations": "40, 45",
+      "image": "/images/12.jpg",
+      "price": 50000,      
+      "items": 3
+    },
+    {
+      "id": 291963207704,
+      "title": "Silver White Zulu",
+      "variations": "40, 45",
+      "image": "/images/13.jpg",
+      "price": 90000,
+      "items": 3
+    },
+    {
+      "id": 291963928600,
+      "title": "Silver White Ndebele",
+      "variations": "40, 45",
+      "image": "/images/14.jpg",
+      "price": 300000,
+      "items": 3
+    },
+    {
+      "id": 291947610136,
+      "title": "Gold White Kalam",
+      "variations": "40, 45",
+      "image": "/images/15.jpg",
+      "price": 450000,
+      "items": 3
+    },
+    {
+      "id": 291951018008,
+      "title": "Gold White Samburu",
+      "variations": "40, 45",
+      "image": "/images/16.jpg",
+      "price": 700000,
+      "items": 3
+    },
+    {
+      "id": 291952132120,
+      "title": "Rose Gold White Samburu",
+      "variations": "40, 45",
+      "image": "/images/17.jpg",
+      "price": 150000,
+      "items": 3
+    },
+    {
+      "id": 291957473304,
+      "title": "Rose Gold White Cherokee",
+      "variations": "40, 45",
+      "image": "/images/18.jpg",
+      "price": 250000,
+      "items": 3
+    },
+    {
+      "id": 291958652952,
+      "title": "Rose Gold Black Ndebele",
+      "variations": "40, 45",
+      "image": "/images/19.jpg",
+      "price": 350000,
+      "items": 3
+    },
+    {
+      "id": 291960356888,
+      "title": "Rose Gold Black Kalam",
+      "variations": "40, 45",
+      "image": "/images/20.jpg",
+      "price": 200000,
+      "items": 3
+    },
+    {
+      "id": 291944759320,
+      "title": "Gold White Cherokee",
+      "variations": "40, 45",
+      "image": "/images/21.jpg",
+      "price": 850000,
+      "items": 3
+    },
+    {
+      "id": 291945218072,
+      "title": "Gold White Zulu",
+      "variations": "40, 45",
+      "image": "/images/22.jpg",
+      "price": 450000,
+      "items": 3
+    },
+    {
+      "id": 291962454040,
+      "title": "Silver White Kalam",
+      "variations": "40, 45",
+      "image": "/images/23.jpg",
+      "price": 100000,
+      "items": 3
+    },
+    {
+      "id": 291963568152,
+      "title": "Silver White Cherokee",
+      "variations": "40, 45",
+      "image": "/images/24.jpg",
+      "price": 180000,
+      "items": 3
+    },
+    {
+      "id": 291953541144,
+      "title": "Canon Camera",
+      "variations": "40, 45",
+      "image": "/images/25.jpg",
+      "price": 230000,
+      "items": 3
+    },
+    {
+      "id": 291955834904,
+      "title": "Gucci Shirt: Men shirt",
+      "variations": "42, 46",
+      "image": "/images/26.jpg",
+      "price": 270000,
+      "items": 3
+    },
+    {
+      "id": 291944529944,
+      "title": "Classic Bag",
+      "variations": "36, 40",
+      "image": "/images/27.jpg",
+      "price": 330000,
+      "items": 3
+    },
+    {
+      "id": 291935748120,
+      "title": "All Star: Men shoe",
+      "variations": "36, 40",
+      "image": "/images/28.jpg",
+      "price": 170000,
+      "items": 3
+    },
+    {
+      "id": 291936075800,
+      "title": "PS4 Game",
+      "variations": "40, 45",
+      "image": "/images/29.jpg",
+      "price": 210000,
+      "items": 3
+    },
+    {
+      "id": 291937058840,
+      "title": "Jordan: Men shoe",
+      "variations": "40, 45",
+      "image": "/images/30.jpg",
+      "price": 370000,
+      "items": 3
+    },
+
+
+     {
+      "id": 23174782321413,
+      "title": "Kalam Strap",
+      "variations": "40, 45",
+      "image": "/images/1.jpg",
+      "price": 250000,
+      "items": 3
+    },
+    {
+      "id": 23174766265094,
+      "title": "Samburu Strap",
+      "variations": "40, 45",
+      "image": "/images/2.jpg",
+      "price": 150000,
+      "items": 3
+    },
+    {
+      "id": 23174750536455,
+      "title": "Zulu Strap",
+      "variations": "40, 45",
+      "image": "/images/3.jpg",
+      "price": 350000,
+      "items": 3
+    },
+    {
+      "id": 23174724649737,
+      "title": "Ndebele Strap",
+      "variations": "40, 45",
+      "image": "/images/4.jpg",
+      "price": 300000,
+      "items": 3
+    },
+    {
+      "id": 23174690243338,
+      "title": "Cherokee Strap",
+      "variations": "40, 45",
+      "image": "/images/5.jpg",
+      "price": 250000,
+      "items": 3
+    },
+    {
+      "id": 2918985892089,
+      "title": "Carbon Black Cherokee",
+      "variations": "40, 45",
+      "image": "/images/6.jpg",
+      "price": 350000,
+      "items": 3
+    },
+    {
+      "id": 2919573094646,
+      "title": "Rose Gold White Zulu",
+      "variations": "40, 45",
+      "image": "/images/7.jpg",
+      "price": 150000,
+      "items": 3
+    },
+    {
+      "id": 2919577026804,
+      "title": "Rose Gold Black Cherokee",
+      "variations": "40, 45",
+      "image": "/images/8.jpg",
+      "price": 450000,
+      "items": 3
+    },
+    {
+      "id": 2919600619760,
+      "title": "Rose Gold Black Zulu",
+      "variations": "40, 45",
+      "image": "/images/9.jpg",
+      "price": 550000,
+      "items": 3
+    }
+  ]
+}
