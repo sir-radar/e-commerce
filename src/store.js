@@ -93,7 +93,7 @@ export default new Vuex.Store({
     
   	},
     async checkout({commit, state}){
-      axios.post('http://www.mocky.io/v2/5be477442f00004900d9f521',state.cart)
+      axios.post('https://www.mocky.io/v2/5be477442f00004900d9f521',state.cart)
             .then(({data})=>{
              commit('setModalDisplay', false);
              commit('setCheckoutMessage', data.message);
